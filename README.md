@@ -26,14 +26,12 @@ The script for loading the JSON files in which the annotations are specified by 
 
 ### 🔹 Ground Truth Masks with images (for Preprocessed Images)
 
-📁 Download here:  
 [📥 Google Drive Link](https://drive.google.com/file/d/1Ek25FOImqBHEIfpV6O5Vix5gueGFEeGx/view?usp=sharing)
 
 ---
 
 ### 🔹 Ground Truth Masks (for Raw Images )
 
-📁 Download here:  
 [📥 Google Drive Link](https://drive.google.com/file/d/1yEKepjP4OKhiiP82cO5T4R-xLS7ZDpNn/view?usp=sharing)
 
 ---
