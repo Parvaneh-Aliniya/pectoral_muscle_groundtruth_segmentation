@@ -58,16 +58,22 @@ The script for loading the JSON files in which the annotations are specified by 
 If you use this repository or the segmentation masks in your work, please cite the following papers accordingly:
 
 ```bibtex
-@inproceedings{your2024paper1,
+@article{aliniya2024towards,
   title={Towards Robust Supervised Pectoral Muscle Segmentation in Mammography Images},
-  author={Your Name and Coauthors},
-  booktitle={Proceedings of [Conference Name]},
-  year={2024}
+  author={Aliniya, Parvaneh and Nicolescu, Mircea and Nicolescu, Monica and Bebis, George},
+  journal={Journal of Imaging},
+  volume={10},
+  number={12},
+  pages={331},
+  year={2024},
+  publisher={MDPI}
 }
 
-@inproceedings{your2024paper2,
+@inproceedings{aliniya2024supervised,
   title={Supervised Pectoral Muscle Removal in Mammography Images},
-  author={Your Name and Coauthors},
-  booktitle={Proceedings of [Conference Name]},
-  year={2024}
+  author={Aliniya, Parvaneh and Nicolescu, Mircea and Nicolescu, Monica and Bebis, George},
+  booktitle={International Conference on Artificial Intelligence in Medicine},
+  pages={126--130},
+  year={2024},
+  organization={Springer}
 }
