@@ -17,7 +17,7 @@ Mammography images are the most commonly used tool for breast cancer screening. 
 
 We release the **pectoral muscle segmentation masks** for the following datasets: **INbreast**, **MIAS**, **CBIS-DDSM**. The **Preprocessed** file is the images that are preprocessed according to the papers. The **Raw** file is for the original data downloaded from the sources.
 
-The script for loading the JSON files in which the annotations are specified by the keyword "muscle" is also provided.
+
 
 
 
