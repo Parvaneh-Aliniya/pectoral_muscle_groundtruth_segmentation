@@ -1,6 +1,6 @@
 
 
-# Pectoral Muscle Ground Truth Segmentation
+# Pectoral Muscle Groundtruth Segmentation
 
 **Official repository for the pectoral muscle annotations from the following papers:**
 
