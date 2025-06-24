@@ -24,27 +24,27 @@ Mammography images are the most commonly used tool for breast cancer screening. 
 
 ### 🔹 Ground Truth Masks with images (for Preprocessed Images)
 
-[📥 Google Drive Link](https://drive.google.com/file/d/1Ek25FOImqBHEIfpV6O5Vix5gueGFEeGx/view?usp=sharing)
+[ Google Drive Link](https://drive.google.com/file/d/1Ek25FOImqBHEIfpV6O5Vix5gueGFEeGx/view?usp=sharing)
 
 ---
 
 ### 🔹 Ground Truth Masks (for Raw Images )
 
-[📥 Google Drive Link](https://drive.google.com/file/d/1yEKepjP4OKhiiP82cO5T4R-xLS7ZDpNn/view?usp=sharing)
+[ Google Drive Link](https://drive.google.com/file/d/1yEKepjP4OKhiiP82cO5T4R-xLS7ZDpNn/view?usp=sharing)
 
 ---
 
 ## 🗂 Dataset Sources
 
 - **CBIS-DDSM**  
-  [🌐 The Cancer Imaging Archive](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
+  [ The Cancer Imaging Archive](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
 
 - **INbreast**  
-  [📊 Kaggle Dataset](https://www.kaggle.com/datasets/ramanathansp20/inbreast-dataset)
+  [ Kaggle Dataset](https://www.kaggle.com/datasets/ramanathansp20/inbreast-dataset)
 
 
 - **MIAS**  
-  [📄 Cambridge Repository](https://www.repository.cam.ac.uk/items/b6a97f0c-3b9b-40ad-8f18-3d121eef1459)
+  [ Cambridge Repository](https://www.repository.cam.ac.uk/items/b6a97f0c-3b9b-40ad-8f18-3d121eef1459)
 
 ---
 
