@@ -20,7 +20,7 @@ Mammography images are the most commonly used tool for breast cancer screening. 
 
 
 
-## 📦 Downloads
+## Downloads
 
 ### 🔹 Ground Truth Masks with images (for Preprocessed Images)
 
@@ -34,7 +34,7 @@ Mammography images are the most commonly used tool for breast cancer screening. 
 
 ---
 
-## 🗂 Dataset Sources
+## Dataset Sources
 
 ###  🔹CBIS-DDSM  
   [ The Cancer Imaging Archive](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
@@ -49,7 +49,7 @@ Mammography images are the most commonly used tool for breast cancer screening. 
 ---
 
 
-## 📚 Citation
+## Citation
 
 If you use this repository or the segmentation masks in your work, please cite the following papers accordingly:
 
